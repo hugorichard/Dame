@@ -1,6 +1,8 @@
 # Dame
 
-Code accompanying the paper Distribution-Aware Mean Estimation under User-level Local Differential Privacy https://openreview.net/attachment?id=ThADV3tAIn&name=pdf.
+Code accompanying the paper Distribution-Aware Mean Estimation under User-level Local Differential Privacy
+
+https://openreview.net/attachment?id=ThADV3tAIn&name=pdf.
 
 # Install 
 
